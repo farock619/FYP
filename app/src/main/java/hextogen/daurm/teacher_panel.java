@@ -18,7 +18,7 @@ public class teacher_panel extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
     }
-    
+
 
     public void gotoLock(View view) {
 
